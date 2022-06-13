@@ -6,7 +6,7 @@
 	
 	@section('content')
 	<h1>TÍTULO</h1>
-	<a href="aqui">próxima página</a>
+	<a href="cadastro_cliente">Cadastro Cliente</a>
 	@if(10 < 15)
 		<p>TESTE REALIZADO</p>
 	Nome do cliente:
